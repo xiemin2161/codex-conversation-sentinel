@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Conversation Sentinel"
+  short_description: "自动配置双时段巡检、交接阈值与新旧对话标题前缀，并创建定时任务"
+  default_prompt: "使用 $codex-conversation-sentinel 按推荐值配置并创建两条 Codex 巡检 heartbeat。"
